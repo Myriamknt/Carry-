@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+    background-color:#009CB2 !important;
+}
+
+.carrylogo.png {
+    width: 4000px;
+    margin:70px auto;
+}
+.carrylogo.png {
+    display: block;
+    margin-left: 400px;
+    margin-right: 50px;
+}
+
+iphone2 {
+    display: block;
+    margin-left: 50px;
+    margin-right: 400px;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    color: blue;
+}
+
+h1 {
+    color:white;
+}
+
+.logo-slide {
+    background-color:white !important;
+    width: 100%;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.app-button {
+    margin-top: 20%;
+    text-align: center; 
+}
+
+.text-valeurs{
+    color: #009CB2;
+    text-align: center !important;
+}
